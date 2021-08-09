@@ -4,7 +4,7 @@
 
 
 ## Dependencies
-  Install the latest versions of below mentioned libraries.<br/>
+  **Install the latest versions of below mentioned libraries.**<br/>
     Python <br/>
     Pandas <br/>
     Numpy <br/>
