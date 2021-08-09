@@ -67,8 +67,7 @@
           (b) what they said about themselves.	
           (a) I think of the incidents and try to put them together to figure out the themes.	
           (b) I just know what the themes are when I finish reading and then I have to go back and find the incidents that demonstrate them.
-          
-          These are questions, which helps to analyze student, prepare a dataset and name it as data3.0.csv
+          These are questions, which helps students to identify their comfortabilities, prepare a dataset and name it as data3.0.csv
     Step-3: Run the Notebook finalYrPrj.ipynb
 
 
