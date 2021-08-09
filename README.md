@@ -16,8 +16,8 @@
     Kneed <br/>
 
 ## Instructions
-  Step-1: Install all the required Dependencies <br/>
-  Step-2: ID <br/>
+  **Step-1:** Install all the required Dependencies <br/>  <br/>
+  **Step-2:** ID <br/> <br/>
           Start time <br/>
           Completion time <br/>
           Email <br/>
@@ -67,7 +67,7 @@
           (b) what they said about themselves. <br/>	
           (a) I think of the incidents and try to put them together to figure out the themes.	 <br/>
           (b) I just know what the themes are when I finish reading and then I have to go back and find the incidents that demonstrate them. <br/>
-          These are questions, which helps students to identify their comfortabilities, prepare a dataset and name it as data3.0.csv <br/>
-    Step-3: Run the Notebook finalYrPrj.ipynb <br/>
+          These are questions, which helps students to identify their comfortabilities, prepare a dataset and name it as data3.0.csv <br/> <br/>
+    **Step-3:** Run the Notebook finalYrPrj.ipynb <br/>
 
 
